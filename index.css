@@ -5,11 +5,10 @@ h1, h2, h3 {
 h1 {
   font-size: 40px;
 }
-
-.fancy {
-  text-decoration: line-through;
-}
-
 .arial {
   font-family: Verdana, sans-serif;
+}
+
+.underlined {
+  text-decoration: underline;
 }
